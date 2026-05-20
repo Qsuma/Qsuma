@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Qsuma">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=3000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=600&amp;lines=Building+scalable+Flutter+apps+%F0%9F%9A%80;Offline-first+%26+real-time+mobile+systems+%F0%9F%93%A1;AI-driven+software+architectures+%F0%9F%A4%96;Android+Auto+%7C+Maps+%7C+Full-stack+dev+%F0%9F%9B%A3%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=3000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=600&amp;lines=Building+scalable+Flutter+apps;Offline-first+and+real-time+mobile+systems;AI-driven+software+architectures;Android+Auto+%7C+Maps+%7C+Full-stack+dev" alt="Typing SVG" />
   </a>
 </p>
 
