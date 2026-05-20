@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=200&section=header&text=Pedro%20Qsuma&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Flutter%20%26%20Mobile&descAlignY=58&descSize=18&descColor=8B949E" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:1F6FEB,100:58A6FF&amp;height=200&amp;section=header&amp;text=Pedro%20Qsuma&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%7C%20Flutter%20%26%20Mobile&amp;descAlignY=58&amp;descSize=18&amp;descColor=8B949E" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Qsuma">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+scalable+Flutter+apps+%F0%9F%9A%80;Offline-first+%26+real-time+mobile+systems+%F0%9F%93%A1;AI-driven+software+architectures+%F0%9F%A4%96;Android+Auto+%7C+Maps+%7C+Full-stack+dev+%F0%9F%9B%A3%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=3000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=600&amp;lines=Building+scalable+Flutter+apps+%F0%9F%9A%80;Offline-first+%26+real-time+mobile+systems+%F0%9F%93%A1;AI-driven+software+architectures+%F0%9F%A4%96;Android+Auto+%7C+Maps+%7C+Full-stack+dev+%F0%9F%9B%A3%EF%B8%8F" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Qsuma&style=flat-square&color=1F6FEB&label=Profile+views" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Qsuma&amp;style=flat-square&amp;color=1F6FEB&amp;label=Profile+views" alt="Profile views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/Qsuma?style=flat-square&color=1F6FEB&label=Followers" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/Qsuma?style=flat-square&amp;color=1F6FEB&amp;label=Followers" alt="Followers"/>
 </p>
 
 ---
@@ -68,13 +68,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Qsuma&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Qsuma&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" height="165" alt="GitHub Stats"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qsuma&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qsuma&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=6" height="165" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Qsuma&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Qsuma&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -83,10 +83,10 @@
 
 <p align="left">
   <a href="https://github.com/Qsuma">
-    <img src="https://img.shields.io/badge/GitHub-Qsuma-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Qsuma-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:58A6FF,50:1F6FEB,100:0D1117&amp;height=100&amp;section=footer" />
 </p>
